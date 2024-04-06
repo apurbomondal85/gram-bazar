@@ -4,6 +4,7 @@ import Header from "./Home/Header";
 import Footer from "../components/shared/Footer";
 
 const layout: React.FC<{ children: ReactNode }> = ({ children }) => {
+  
   return (
     <div>
       <Header />

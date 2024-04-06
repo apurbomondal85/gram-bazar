@@ -22,51 +22,6 @@
   right: 0;
 }
 
-/* Popular Products Section */
-
-.popularProducts .swiper-button-prev {
-  left: auto;
-  right: 50px;
-  bottom: -3px !important;
-  top: auto;
-}
-
-.popularProducts .swiper-button-next {
-  right: 0px;
-  bottom: -3px !important;
-  top: auto;
-}
-
-.popularProducts.swiper {
-  position: static;
-}
-
-.popularProducts .swiper-button-prev:after {
-  font-size: 24px !important;
-  background-color: rgba(0, 0, 0, 0.2);
-  padding: 8px;
-  color: #fff;
-  border-radius: 5px 0 0 5px;
-}
-
-.popularProducts .swiper-button-next:after {
-  font-size: 24px !important;
-  background-color: rgba(0, 0, 0, 0.2);
-  padding: 8px;
-  color: #fff;
-  border-radius: 0 5px 5px 0;
-}
-
-@media (max-width: 993px) {
-  .popularProducts .swiper-button-prev {
-    right: 50px;
-  }
-
-  .popularProducts .swiper-button-next {
-    right: 0px;
-  }
-}
-
 /* Daily Sell Section */
 
 .daily-swiper .swiper-button-prev:after {

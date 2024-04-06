@@ -13,12 +13,12 @@ import 'swiper/css/navigation';
 import { Navigation } from 'swiper/modules';
 import ProductCard from "@/app/components/ProductCard"
 
-const DailySellSection = () => {
-    const styles = {
-        Mt: {
-            marginTop: '32px'
-        }
+const styles = {
+    Mt: {
+        marginTop: '32px'
     }
+}
+const DailySellSection = () => {
 
     return (
         <Container maxWidth="xl" className="my-12">
@@ -73,7 +73,6 @@ const DailySellSection = () => {
                                 <DailySellProduct />
                             </Box>
                         </SwiperSlide>
-
                     </Swiper>
                 </Grid>
             </Grid>

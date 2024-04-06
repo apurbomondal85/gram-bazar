@@ -4,11 +4,10 @@ import { Box, Button, Container } from "@mui/material"
 
 const PopularProducts: React.FC = () => {
     return (
-        <Container maxWidth="xl" className="my-12">
+        <Container maxWidth="xl" className="mt-12 mb-20">
             <SectionTitle title="Popular Products" />
             <Box sx={{ marginTop: '32px', position:'relative' }}>
                 <PopularProductSlider />
-                <Button variant="contained" className="bg-secondary transition-all duration-500 hover:bg-[#4fa84f] mt-6 capitalize">View All Products</Button>
             </Box>
         </Container>
     )

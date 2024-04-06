@@ -1,53 +1,55 @@
 'use client'
-import { Box, } from "@mui/material"
-import { Swiper, SwiperSlide } from 'swiper/react';
-import 'swiper/css';
-import 'swiper/css/pagination';
-import 'swiper/css/navigation';
-import { Navigation } from 'swiper/modules';
+import { Box, Button, Skeleton, } from "@mui/material"
 import ProductCard from "./ProductCard";
+import { useEffect, useState } from "react";
+import { FaChevronLeft, FaChevronRight } from "react-icons/fa";
+import getProducts from "../utiliz/getProducts";
+import axiosInstance from "../utiliz/axiosInstance";
 
 
 const PopularProductSlider: React.FC = () => {
-    return (
-        <Swiper
-            slidesPerView={1}
-            spaceBetween={4}
-            centeredSlides={true}
-            navigation={true}
-            modules={[Navigation]}
-            className='h-full w-full popularProducts'
-        >
+    const [limit, setLimit] = useState(1);
+    const [page, setpage] = useState(0);
+    const [allProducts, setProducts] = useState([]);
+    const [isLoading, setLoading] = useState(true);
+    const skeleton = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12];
+    useEffect(() => {
+        const autoGet = async () => {
+            setLoading(true);
+            const getProduct = await getProducts();
+            setpage(Math.ceil(getProduct.length / 12));
+            const products: any = await axiosInstance.get(`get-limitProducts?limit=${limit}`);
+            setProducts(products.data);
+            if (products.data) {
+                setLoading(false);
+            }
+        }
+        autoGet()
+    }, [limit]);
 
-            <SwiperSlide className="px-2 py-1">
-                <Box className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 2xl:grid-cols-5 gap-4">
-                    <ProductCard />
-                    <ProductCard />
-                    <ProductCard />
-                    <ProductCard />
-                    <ProductCard />
-                    <ProductCard />
-                    <ProductCard />
-                    <ProductCard />
-                    <ProductCard />
-                    <ProductCard />
-                </Box>
-            </SwiperSlide>
-            <SwiperSlide className="px-2 py-1">
-                <Box className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 2xl:grid-cols-5 gap-4">
-                    <ProductCard />
-                    <ProductCard />
-                    <ProductCard />
-                    <ProductCard />
-                    <ProductCard />
-                    <ProductCard />
-                    <ProductCard />
-                    <ProductCard />
-                    <ProductCard />
-                    <ProductCard />
-                </Box>
-            </SwiperSlide>
-        </Swiper>
+    return (
+        <div className="popularProducts">
+            <Box className="grid grid-cols-2 sm:grid-cols-2 lg:grid-cols-4 2xl:grid-cols-6 gap-4">
+                {
+                    isLoading ?
+                    skeleton.map(i =>
+                        <div key={i}>
+                            <Skeleton variant="rectangular" height="200px" />
+                            <Skeleton className="my-2"/>
+                            <Skeleton width="60%" />
+                        </div>) :
+
+                        allProducts?.map((product: any) =>
+                            <ProductCard product={product} />
+                        )
+                }
+            </Box>
+            <div className="flex items-center gap-4 absolute right-0 mt-4">
+                <Button variant="contained" disabled={limit <= 1 ? true : false} onClick={() => setLimit(limit - 1)} className="p-3 bg-[rgba(0,0,0,0.3)] hover:bg-[rgba(0,0,0,0.4)] text-white text-base rounded-s-md cursor-pointer"><FaChevronLeft /></Button>
+
+                <Button variant="contained" disabled={limit == page ? true : false} onClick={() => setLimit(limit + 1)} className="p-3 bg-[rgba(0,0,0,0.3)] hover:bg-[rgba(0,0,0,0.4)] text-white text-base rounded-e-md cursor-pointer"><FaChevronRight /></Button>
+            </div>
+        </div>
     )
 }
 

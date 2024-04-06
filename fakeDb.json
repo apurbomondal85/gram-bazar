@@ -1,0 +1,2278 @@
+[
+    {
+        "category": "Juice",
+        "products": [
+            {
+                "name": "Orange Juice",
+                "price": 2.49,
+                "slug": "orange-juice",
+                "description": "Indulge in the refreshing taste of our Orange Juice, crafted from the finest sun-ripened oranges. Bursting with vibrant citrus flavor, our orange juice is a delicious and nutritious choice for any time of day. Each sip delivers a dose of vitamin C and essential nutrients, promoting overall health and well-being. Made with 100% pure orange juice, our product contains no added sugars or preservatives. Start your day off right with the natural goodness of our Orange Juice!",
+                "images": [
+                    "orange_juice_1.jpg",
+                    "orange_juice_2.jpg",
+                    "orange_juice_3.jpg"
+                ],
+                "stock": 60,
+                "volume": "1 liter",
+                "average_rating": 4.5,
+                "nutritional_info": {
+                    "calories": 110,
+                    "protein": "2g",
+                    "carbs": "25g",
+                    "fat": "0g"
+                },
+                "discount": 8
+            },
+            {
+                "name": "Apple Juice",
+                "price": 1.99,
+                "slug": "apple-juice",
+                "description": "Savor the crisp and sweet flavor of our Apple Juice, made from hand-picked orchard-fresh apples. Our apple juice is a delightful blend of ripe apples, pressed to perfection to capture their natural essence. Rich in antioxidants and vitamins, it offers a refreshing and invigorating taste experience. Whether enjoyed on its own, mixed into cocktails, or used in cooking and baking, our apple juice adds a touch of natural sweetness to any occasion. Treat yourself to the wholesome goodness of our Apple Juice today!",
+                "images": [
+                    "apple_juice_1.jpg",
+                    "apple_juice_2.jpg",
+                    "apple_juice_3.jpg"
+                ],
+                "stock": 70,
+                "volume": "0.75 liter",
+                "average_rating": 4.2,
+                "nutritional_info": {
+                    "calories": 120,
+                    "protein": "1g",
+                    "carbs": "28g",
+                    "fat": "0g"
+                },
+                "discount": 8
+            },
+            {
+                "name": "Grape Juice",
+                "slug": "grape-juice",
+                "price": 3.29,
+                "description": "Experience the luscious flavor of our Grape Juice, made from ripe and juicy grapes bursting with natural sweetness. Our grape juice is a tantalizing blend of select grape varieties, carefully pressed and bottled to preserve their fresh taste. Packed with antioxidants and polyphenols, it offers numerous health benefits, including heart health and immune support. Whether enjoyed on its own, as a mixer, or in smoothies, our grape juice is a delicious and nutritious choice for all occasions. Treat yourself to the pure taste of our Grape Juice!",
+                "images": [
+                    "grape_juice_1.jpg",
+                    "grape_juice_2.jpg",
+                    "grape_juice_3.jpg"
+                ],
+                "stock": 45,
+                "volume": "1 liter",
+                "average_rating": 4.8,
+                "nutritional_info": {
+                    "calories": 140,
+                    "protein": "1g",
+                    "carbs": "32g",
+                    "fat": "0g"
+                },
+                "discount": 0
+            },
+            {
+                "name": "Pineapple Juice",
+                "slug": "pineapple-juice",
+                "price": 2.99,
+                "description": "Transport yourself to a tropical paradise with our Pineapple Juice, made from succulent and sun-ripened pineapples bursting with flavor. Our pineapple juice is a delightful blend of sweet and tangy notes, perfect for refreshing your senses on a hot day. Packed with vitamin C and bromelain, it offers numerous health benefits, including immune support and digestion aid. Whether enjoyed on its own, as a mixer, or in cocktails and smoothies, our pineapple juice is a delicious and versatile choice for any occasion. Treat yourself to a taste of the tropics with our Pineapple Juice!",
+                "images": [
+                    "pineapple_juice_1.jpg",
+                    "pineapple_juice_2.jpg",
+                    "pineapple_juice_3.jpg"
+                ],
+                "stock": 55,
+                "volume": "1 liter",
+                "average_rating": 4.6,
+                "nutritional_info": {
+                    "calories": 130,
+                    "protein": "1g",
+                    "carbs": "30g",
+                    "fat": "0g"
+                },
+                "discount": 0
+            },
+            {
+                "name": "Cranberry Juice",
+                "slug": "cranberry-juice",
+                "price": 2.79,
+                "description": "Discover the tangy and tart flavor of our Cranberry Juice, made from plump and juicy cranberries bursting with antioxidants. Our cranberry juice is a refreshing and invigorating choice, perfect for quenching your thirst and supporting urinary tract health. Packed with vitamin C and other essential nutrients, it offers numerous health benefits, including immune support and digestive aid. Whether enjoyed on its own, mixed into cocktails, or used in cooking and baking, our cranberry juice adds a burst of flavor to any occasion. Treat yourself to the pure taste of our Cranberry Juice!",
+                "images": [
+                    "cranberry_juice_1.jpg",
+                    "cranberry_juice_2.jpg",
+                    "cranberry_juice_3.jpg"
+                ],
+                "stock": 40,
+                "volume": "1 liter",
+                "average_rating": 4.3,
+                "nutritional_info": {
+                    "calories": 120,
+                    "protein": "1g",
+                    "carbs": "28g",
+                    "fat": "0g"
+                },
+                "discount": 0
+            },
+            {
+                "name": "Mango Juice",
+                "slug": "mango-juice",
+                "price": 2.49,
+                "description": "Indulge in the tropical flavor of our Mango Juice, made from the finest ripe mangoes bursting with natural sweetness. Our mango juice is a delightful blend of smooth and creamy texture, perfect for refreshing your senses on a hot day. Packed with vitamin A, vitamin C, and other essential nutrients, it offers numerous health benefits, including immune support and eye health. Whether enjoyed on its own, as a mixer, or in smoothies and cocktails, our mango juice is a delicious and versatile choice for any occasion. Treat yourself to the taste of the tropics with our Mango Juice!",
+                "images": [
+                    "mango_juice_1.jpg",
+                    "mango_juice_2.jpg",
+                    "mango_juice_3.jpg"
+                ],
+                "stock": 50,
+                "volume": "1 liter",
+                "average_rating": 4.7,
+                "nutritional_info": {
+                    "calories": 140,
+                    "protein": "1g",
+                    "carbs": "33g",
+                    "fat": "0g"
+                },
+                "discount": 8
+            },
+            {
+                "name": "Watermelon Juice",
+                "slug": "watermelon-juice",
+                "price": 2.29,
+                "description": "Quench your thirst with the refreshing taste of our Watermelon Juice, made from juicy and succulent watermelons bursting with flavor. Our watermelon juice is a hydrating and revitalizing choice, perfect for staying cool on a hot day. Packed with vitamin C, vitamin A, and other essential nutrients, it offers numerous health benefits, including hydration and skin health. Whether enjoyed on its own, as a mixer, or in cocktails and smoothies, our watermelon juice is a delicious and nutritious choice for any occasion. Treat yourself to the pure taste of our Watermelon Juice!",
+                "images": [
+                    "watermelon_juice_1.jpg",
+                    "watermelon_juice_2.jpg",
+                    "watermelon_juice_3.jpg"
+                ],
+                "stock": 65,
+                "volume": "1 liter",
+                "average_rating": 4.4,
+                "nutritional_info": {
+                    "calories": 120,
+                    "protein": "1g",
+                    "carbs": "29g",
+                    "fat": "0g"
+                },
+                "discount": 8
+            },
+            {
+                "name": "Strawberry Juice",
+                "slug": "strawberry-juice",
+                "price": 2.79,
+                "description": "Experience the antioxidant-rich flavor of our Blueberry Juice, made from plump and juicy blueberries bursting with goodness. Our blueberry juice is a delicious and nutritious choice, perfect for supporting overall health and well-being. Packed with vitamin C, vitamin K, and other essential nutrients, it offers numerous health benefits, including immune support and cognitive function. Whether enjoyed on its own, as a mixer, or in smoothies and cocktails, our blueberry juice is a delightful addition to any occasion. Treat yourself to the pure taste of our Blueberry Juice!",
+                "images": [
+                    "strawberry_juice_1.jpg",
+                    "strawberry_juice_2.jpg",
+                    "strawberry_juice_3.jpg"
+                ],
+                "stock": 35,
+                "volume": "1 liter",
+                "average_rating": 4.6,
+                "nutritional_info": {
+                    "calories": 130,
+                    "protein": "1g",
+                    "carbs": "31g",
+                    "fat": "0g"
+                },
+                "discount": 0
+            },
+            {
+                "name": "Lemonade",
+                "slug": "lemonade",
+                "price": 1.49,
+                "description": "Delight in the tangy and tropical flavor of our Kiwi Juice, made from ripe and zesty kiwi fruits bursting with natural goodness. Our kiwi juice is a refreshing and invigorating choice, perfect for adding a burst of flavor to your day. Packed with vitamin C, vitamin K, and other essential nutrients, it offers numerous health benefits, including immune support and digestion aid. Whether enjoyed on its own, as a mixer, or in smoothies and cocktails, our kiwi juice is a delicious and nutritious choice for any occasion. Treat yourself to the taste of the tropics with our Kiwi Juice!",
+                "images": [
+                    "lemonade_1.jpg",
+                    "lemonade_2.jpg",
+                    "lemonade_3.jpg"
+                ],
+                "stock": 75,
+                "volume": "500 ml",
+                "average_rating": 4.2,
+                "nutritional_info": {
+                    "calories": 100,
+                    "protein": "0g",
+                    "carbs": "26g",
+                    "fat": "0g"
+                },
+                "discount": 8
+            },
+            {
+                "name": "Pomegranate Juice",
+                "slug": "pomegranate-juice",
+                "price": 3.49,
+                "description": "Experience the exotic flavor of our Pomegranate Juice, made from ripe and juicy pomegranates bursting with antioxidants. Our pomegranate juice is a refreshing and revitalizing choice, perfect for supporting heart health and overall well-being. Packed with vitamin C, vitamin K, and other essential nutrients, it offers numerous health benefits, including immune support and anti-inflammatory properties. Whether enjoyed on its own, as a mixer, or in smoothies and cocktails, our pomegranate juice is a delicious and nutritious choice for any occasion. Treat yourself to the exotic taste of our Pomegranate Juice!",
+                "images": [
+                    "pomegranate_juice_1.jpg",
+                    "pomegranate_juice_2.jpg",
+                    "pomegranate_juice_3.jpg"
+                ],
+                "stock": 30,
+                "volume": "750 ml",
+                "average_rating": 4.8,
+                "nutritional_info": {
+                    "calories": 150,
+                    "protein": "1g",
+                    "carbs": "35g",
+                    "fat": "0g"
+                },
+                "discount": 0
+            },
+            {
+                "name": "Lemonade",
+                "slug": "lemonade",
+                "price": 1.49,
+                "description": "Experience the exotic flavor of our Pomegranate Juice, made from ripe and juicy pomegranates bursting with antioxidants. Our pomegranate juice is a refreshing and revitalizing choice, perfect for supporting heart health and overall well-being. Packed with vitamin C, vitamin K, and other essential nutrients, it offers numerous health benefits, including immune support and anti-inflammatory properties. Whether enjoyed on its own, as a mixer, or in smoothies and cocktails, our pomegranate juice is a delicious and nutritious choice for any occasion. Treat yourself to the exotic taste of our Pomegranate Juice!",
+                "images": [
+                    "lemonade_1.jpg",
+                    "lemonade_2.jpg",
+                    "lemonade_3.jpg"
+                ],
+                "stock": 25,
+                "volume": "500 ml",
+                "average_rating": 4.2,
+                "nutritional_info": {
+                    "calories": 100,
+                    "protein": "0g",
+                    "carbs": "26g",
+                    "fat": "0g"
+                },
+                "discount": 8
+            },
+            {
+                "name": "Grapefruit Juice",
+                "slug": "grapefruit-juice",
+                "price": 2.79,
+                "description": "Experience the exotic flavor of our Pomegranate Juice, made from ripe and juicy pomegranates bursting with antioxidants. Our pomegranate juice is a refreshing and revitalizing choice, perfect for supporting heart health and overall well-being. Packed with vitamin C, vitamin K, and other essential nutrients, it offers numerous health benefits, including immune support and anti-inflammatory properties. Whether enjoyed on its own, as a mixer, or in smoothies and cocktails, our pomegranate juice is a delicious and nutritious choice for any occasion. Treat yourself to the exotic taste of our Pomegranate Juice!",
+                "images": [
+                    "grapefruit_juice_1.jpg",
+                    "grapefruit_juice_2.jpg",
+                    "grapefruit_juice_3.jpg"
+                ],
+                "stock": 40,
+                "volume": "1 liter",
+                "average_rating": 4.5,
+                "nutritional_info": {
+                    "calories": 120,
+                    "protein": "1g",
+                    "carbs": "30g",
+                    "fat": "0g"
+                },
+                "discount": 0
+            }
+        ]
+    },
+    {
+        "name": "Meat",
+        "products": [
+            {
+                "name": "Beef Steak",
+                "slug": "beef-steak",
+                "price": 12.99,
+                "description": "Indulge in the succulent taste of our prime cut Beef Steak. Sourced from the finest cattle, our beef steak promises an exquisite dining experience. Each steak is expertly trimmed to perfection, ensuring tender meat with every bite. Whether grilled, pan-seared, or roasted, our beef steak is versatile and easy to cook. Treat yourself to a hearty meal with our Beef Steak today!",
+                "images": [
+                    "beef_steak_1.jpg",
+                    "beef_steak_2.jpg",
+                    "beef_steak_3.jpg"
+                ],
+                "stock": 30,
+                "weight": "0.5 kg",
+                "average_rating": 4.6,
+                "nutritional_info": {
+                    "calories": 250,
+                    "protein": "25g",
+                    "carbs": "0g",
+                    "fat": "16g"
+                },
+                "discount": 10
+            },
+            {
+                "name": "Chicken Drumsticks",
+                "slug": "chicken-drumsticks",
+                "price": 8.99,
+                "description": "Savor the delicious taste of our Fresh Chicken Drumsticks. These high-quality drumsticks are perfect for a variety of culinary creations. Whether you're grilling, baking, or frying, our chicken drumsticks promise juicy and flavorful meat every time. Raised with care and without antibiotics, our chicken drumsticks offer wholesome goodness in every bite. Elevate your meals with our Fresh Chicken Drumsticks today!",
+                "images": [
+                    "chicken_drumsticks_1.jpg",
+                    "chicken_drumsticks_2.jpg",
+                    "chicken_drumsticks_3.jpg"
+                ],
+                "stock": 25,
+                "weight": "1 kg",
+                "average_rating": 4.4,
+                "nutritional_info": {
+                    "calories": 200,
+                    "protein": "30g",
+                    "carbs": "0g",
+                    "fat": "10g"
+                },
+                "discount": 8
+            },
+            {
+                "name": "Pork Chops",
+                "slug": "pork-chops",
+                "price": 9.49,
+                "description": "Indulge in the rich flavor of our Tender Pork Chops. Sourced from premium pork, our chops are carefully selected for their tenderness and succulence. Whether grilled, pan-fried, or roasted, our pork chops are sure to delight your taste buds. Each chop is expertly trimmed and hand-cut to ensure consistent quality and taste. Treat yourself to a gourmet experience with our Tender Pork Chops today!",
+                "images": [
+                    "pork_chops_1.jpg",
+                    "pork_chops_2.jpg",
+                    "pork_chops_3.jpg"
+                ],
+                "stock": 20,
+                "weight": "0.8 kg",
+                "average_rating": 4.8,
+                "nutritional_info": {
+                    "calories": 220,
+                    "protein": "28g",
+                    "carbs": "0g",
+                    "fat": "12g"
+                },
+                "discount": 5
+            },
+            {
+                "name": "Lamb Leg",
+                "slug": "lamb-leg",
+                "price": 14.99,
+                "description": "Experience the exquisite flavor of our Whole Lamb Leg. Hand-selected from the finest lamb, our legs offer a tender and succulent dining experience. Whether roasted, grilled, or braised, our lamb leg promises melt-in-your-mouth goodness with every bite. Perfect for special occasions or everyday meals, our lamb leg is a culinary delight that's sure to impress. Treat yourself to gourmet dining with our Whole Lamb Leg today!",
+                "images": [
+                    "lamb_leg_1.jpg",
+                    "lamb_leg_2.jpg",
+                    "lamb_leg_3.jpg"
+                ],
+                "stock": 15,
+                "weight": "1.5 kg",
+                "average_rating": 4.7,
+                "nutritional_info": {
+                    "calories": 280,
+                    "protein": "22g",
+                    "carbs": "0g",
+                    "fat": "20g"
+                },
+                "discount": 8
+            },
+            {
+                "name": "Turkey Breast",
+                "slug": "turkey-breast",
+                "price": 10.99,
+                "description": "Savor the taste of our Lean Turkey Breast, a wholesome and delicious addition to any meal. Our turkey breasts are carefully selected for their quality and flavor, offering tender meat with every bite. Versatile and easy to cook, they can be roasted, grilled, or sliced for sandwiches. Whether for a holiday feast or a weeknight dinner, our turkey breast is sure to please. Elevate your cooking with our Lean Turkey Breast today!",
+                "images": [
+                    "turkey_breast_1.jpg",
+                    "turkey_breast_2.jpg",
+                    "turkey_breast_3.jpg"
+                ],
+                "stock": 18,
+                "weight": "0.6 kg",
+                "average_rating": 4.5,
+                "nutritional_info": {
+                    "calories": 180,
+                    "protein": "27g",
+                    "carbs": "0g",
+                    "fat": "8g"
+                },
+                "discount": 12
+            },
+            {
+                "name": "Salmon Fillet",
+                "slug": "salmon-fillet",
+                "price": 11.99,
+                "description": "Indulge in the rich flavor of our Fresh Atlantic Salmon Fillet. Sourced from pristine waters, our salmon fillets offer exquisite taste and exceptional quality. Whether baked, grilled, or pan-seared, our fillets promise tender and flaky meat with a buttery texture. Packed with omega-3 fatty acids and protein, they're as nutritious as they are delicious. Elevate your seafood experience with our Fresh Atlantic Salmon Fillet today!",
+                "images": [
+                    "salmon_fillet_1.jpg",
+                    "salmon_fillet_2.jpg",
+                    "salmon_fillet_3.jpg"
+                ],
+                "stock": 22,
+                "weight": "0.4 kg",
+                "average_rating": 4.6,
+                "nutritional_info": {
+                    "calories": 200,
+                    "protein": "22g",
+                    "carbs": "0g",
+                    "fat": "12g"
+                },
+                "discount": 10
+            },
+            {
+                "name": "Bacon Strips",
+                "slug": "bacon-strips",
+                "price": 7.99,
+                "description": "Satisfy your cravings with our Crispy Bacon Strips, the perfect addition to any breakfast or sandwich. Made from premium cuts of pork, our bacon strips are expertly cured and smoked to perfection, resulting in a rich and savory flavor. Whether enjoyed crispy or chewy, they're sure to tantalize your taste buds. Start your day off right with our Crispy Bacon Strips today!",
+                "images": [
+                    "bacon_strips_1.jpg",
+                    "bacon_strips_2.jpg",
+                    "bacon_strips_3.jpg"
+                ],
+                "stock": 28,
+                "weight": "0.3 kg",
+                "average_rating": 4.3,
+                "nutritional_info": {
+                    "calories": 180,
+                    "protein": "15g",
+                    "carbs": "0g",
+                    "fat": "12g"
+                },
+                "discount": 10
+            },
+            {
+                "name": "Ground Beef",
+                "slug": "ground-beef",
+                "price": 9.99,
+                "description": "Experience the richness of our Premium Ground Beef, perfect for creating a variety of mouthwatering dishes. Made from the finest cuts of beef, our ground beef is flavorful, juicy, and versatile. Whether used in burgers, meatballs, or tacos, it adds depth of flavor and texture to your recipes. Elevate your cooking with the superior quality of our Premium Ground Beef today!",
+                "images": [
+                    "ground_beef_1.jpg",
+                    "ground_beef_2.jpg",
+                    "ground_beef_3.jpg"
+                ],
+                "stock": 24,
+                "weight": "0.8 kg",
+                "average_rating": 4.4,
+                "nutritional_info": {
+                    "calories": 230,
+                    "protein": "20g",
+                    "carbs": "0g",
+                    "fat": "16g"
+                },
+                "discount": 10
+            },
+            {
+                "name": "Duck Breast",
+                "slug": "duck-breast",
+                "price": 13.49,
+                "description": "Indulge in the succulent taste of our Tender Duck Breast, a gourmet delight that's sure to impress. Sourced from premium ducks, our breasts are tender, juicy, and full of flavor. Whether pan-seared, roasted, or grilled, they offer a decadent dining experience that's perfect for any occasion. Elevate your cooking with the exquisite taste of our Tender Duck Breast today!",
+                "images": [
+                    "duck_breast_1.jpg",
+                    "duck_breast_2.jpg",
+                    "duck_breast_3.jpg"
+                ],
+                "stock": 20,
+                "weight": "0.6 kg",
+                "average_rating": 4.7,
+                "nutritional_info": {
+                    "calories": 250,
+                    "protein": "28g",
+                    "carbs": "0g",
+                    "fat": "14g"
+                },
+                "discount": 8
+            },
+            {
+                "name": "Rack of Lamb",
+                "slug": "rack-of-lamb",
+                "price": 16.99,
+                "description": "Indulge in the culinary delight of our Rack of Lamb, a premium cut that's perfect for special occasions or gourmet dining. Sourced from the finest lambs, our racks are tender, flavorful, and beautifully presented. Whether roasted with herbs or seasoned and grilled, they offer a sophisticated dining experience that's sure to impress. Elevate your meals with the elegance of our Rack of Lamb today!",
+                "images": [
+                    "rack_of_lamb_1.jpg",
+                    "rack_of_lamb_2.jpg",
+                    "rack_of_lamb_3.jpg"
+                ],
+                "stock": 15,
+                "weight": "1 kg",
+                "average_rating": 4.9,
+                "nutritional_info": {
+                    "calories": 300,
+                    "protein": "28g",
+                    "carbs": "0g",
+                    "fat": "20g"
+                },
+                "discount": 8
+            }
+        ]
+    },
+    {
+        "name": "Fish",
+        "products": [
+            {
+                "name": "Salmon Fillet",
+                "slug": "salmon-fillet",
+                "price": 10.99,
+                "description": "Indulge in the rich flavor of our Fresh Atlantic Salmon Fillet. Sourced from pristine waters, our salmon fillets offer exquisite taste and exceptional quality. Whether baked, grilled, or pan-seared, our fillets promise tender and flaky meat with a buttery texture. Packed with omega-3 fatty acids and protein, they're as nutritious as they are delicious. Elevate your seafood experience with our Fresh Atlantic Salmon Fillet today!",
+                "images": [
+                    "salmon_fillet_1.jpg",
+                    "salmon_fillet_2.jpg",
+                    "salmon_fillet_3.jpg"
+                ],
+                "stock": 50,
+                "weight": "0.5 kg",
+                "average_rating": 4.6,
+                "nutritional_info": {
+                    "calories": 200,
+                    "protein": "20g",
+                    "carbs": "0g",
+                    "fat": "10g"
+                },
+                "discount": 12
+            },
+            {
+                "name": "Tuna Steak",
+                "slug": "tuna-steak",
+                "price": 9.99,
+                "description": "Savor the taste of our Yellowfin Tuna Steak, a premium cut that's perfect for grilling or searing. Sourced from deep, cold waters, our tuna steaks offer a meaty texture and rich flavor profile. Whether marinated, seasoned, or served sushi-grade, they're sure to delight seafood lovers. Packed with protein and essential nutrients, our tuna steaks are a healthy and delicious choice for any meal. Elevate your cooking with the superior quality of our Yellowfin Tuna Steak today!",
+                "images": [
+                    "tuna_steak_1.jpg",
+                    "tuna_steak_2.jpg",
+                    "tuna_steak_3.jpg"
+                ],
+                "stock": 40,
+                "weight": "0.4 kg",
+                "average_rating": 4.5,
+                "nutritional_info": {
+                    "calories": 180,
+                    "protein": "25g",
+                    "carbs": "0g",
+                    "fat": "8g"
+                },
+                "discount": 13
+            },
+            {
+                "name": "Cod Fillet",
+                "slug": "cod-fillet",
+                "price": 8.49,
+                "description": "Enjoy the delicate flavor of our North Atlantic Cod Fillet, a versatile choice for all your seafood recipes. Sourced from sustainable fisheries, our cod fillets offer a mild and flaky texture with a subtle sweetness. Whether baked, broiled, or pan-fried, they're perfect for fish tacos, fish and chips, or fish stews. Packed with protein and low in fat, our cod fillets are a healthy and delicious addition to any diet. Elevate your meals with the exceptional quality of our North Atlantic Cod Fillet today!",
+                "images": [
+                    "cod_fillet_1.jpg",
+                    "cod_fillet_2.jpg",
+                    "cod_fillet_3.jpg"
+                ],
+                "stock": 45,
+                "weight": "0.6 kg",
+                "average_rating": 4.7,
+                "nutritional_info": {
+                    "calories": 150,
+                    "protein": "20g",
+                    "carbs": "0g",
+                    "fat": "7g"
+                },
+                "discount": 5
+            },
+            {
+                "name": "Halibut Steak",
+                "slug": "halibut-steak",
+                "price": 12.99,
+                "description": "Experience the succulent flavor of our Alaskan Halibut Steak, a premium cut that's perfect for grilling or baking. Sourced from cold, pristine waters, our halibut steaks offer a firm texture and rich taste. Whether marinated, seasoned, or served with lemon butter sauce, they're sure to impress seafood connoisseurs. Packed with protein and omega-3 fatty acids, our halibut steaks are a healthy and delicious choice for any occasion. Elevate your dining experience with the superior quality of our Alaskan Halibut Steak today!",
+                "images": [
+                    "halibut_steak_1.jpg",
+                    "halibut_steak_2.jpg",
+                    "halibut_steak_3.jpg"
+                ],
+                "stock": 30,
+                "weight": "0.7 kg",
+                "average_rating": 4.8,
+                "nutritional_info": {
+                    "calories": 190,
+                    "protein": "22g",
+                    "carbs": "0g",
+                    "fat": "9g"
+                },
+                "discount": 6
+            },
+            {
+                "name": "Swordfish Steak",
+                "slug": "swordfish-steak",
+                "price": 11.49,
+                "description": "Indulge in the robust flavor of our Wild-Caught Swordfish Steak, a gourmet choice for seafood enthusiasts. Sourced from deep, tropical waters, our swordfish steaks offer a meaty texture and bold taste. Whether grilled, broiled, or blackened, they're perfect for showcasing your culinary skills. Packed with protein and omega-3 fatty acids, our swordfish steaks are a healthy and delicious addition to any menu. Elevate your cooking with the exquisite quality of our Wild-Caught Swordfish Steak today!",
+                "images": [
+                    "swordfish_steak_1.jpg",
+                    "swordfish_steak_2.jpg",
+                    "swordfish_steak_3.jpg"
+                ],
+                "stock": 35,
+                "weight": "0.5 kg",
+                "average_rating": 4.6,
+                "nutritional_info": {
+                    "calories": 170,
+                    "protein": "24g",
+                    "carbs": "0g",
+                    "fat": "8g"
+                },
+                "discount": 10
+            },
+            {
+                "name": "Red Snapper Fillet",
+                "slug": "red-snapper-fillet",
+                "price": 9.99,
+                "description": "Enjoy the delicate flavor of our Gulf Red Snapper Fillet, a popular choice for seafood lovers. Sourced from warm Gulf waters, our red snapper fillets offer a tender texture and mild taste. Whether grilled, baked, or pan-seared, they're perfect for creating gourmet seafood dishes. Packed with protein and essential nutrients, our red snapper fillets are a healthy and delicious addition to any diet. Elevate your meals with the exceptional quality of our Gulf Red Snapper Fillet today!",
+                "images": [
+                    "red_snapper_fillet_1.jpg",
+                    "red_snapper_fillet_2.jpg",
+                    "red_snapper_fillet_3.jpg"
+                ],
+                "stock": 40,
+                "weight": "0.5 kg",
+                "average_rating": 4.7,
+                "nutritional_info": {
+                    "calories": 160,
+                    "protein": "21g",
+                    "carbs": "0g",
+                    "fat": "8g"
+                },
+                "discount": 8
+            },
+            {
+                "name": "Mahi Mahi Fillet",
+                "slug": "mahi-mahi-fillet",
+                "price": 10.49,
+                "description": "Experience the tropical flavor of our Hawaiian Mahi Mahi Fillet, a premium choice for seafood aficionados. Sourced from warm Pacific waters, our mahi mahi fillets offer a firm texture and sweet taste. Whether grilled, broiled, or blackened, they're perfect for adding a taste of the islands to your menu. Packed with protein and essential nutrients, our mahi mahi fillets are a healthy and delicious option for any meal. Elevate your culinary creations with the superior quality of our Hawaiian Mahi Mahi Fillet today!",
+                "images": [
+                    "mahi_mahi_fillet_1.jpg",
+                    "mahi_mahi_fillet_2.jpg",
+                    "mahi_mahi_fillet_3.jpg"
+                ],
+                "stock": 45,
+                "weight": "0.6 kg",
+                "average_rating": 4.8,
+                "nutritional_info": {
+                    "calories": 170,
+                    "protein": "23g",
+                    "carbs": "0g",
+                    "fat": "7g"
+                },
+                "discount": 12
+            },
+            {
+                "name": "Sea Bass Fillet",
+                "slug": "sea-bass-fillet",
+                "price": 11.99,
+                "description": "Savor the exquisite flavor of our Mediterranean Sea Bass Fillet, a gourmet choice for discerning palates. Sourced from pristine Mediterranean waters, our sea bass fillets offer a delicate texture and buttery taste. Whether baked, grilled, or steamed, they're perfect for showcasing the natural flavors of the sea. Packed with protein and omega-3 fatty acids, our sea bass fillets are a healthy and delicious addition to any menu. Elevate your dining experience with the superior quality of our Mediterranean Sea Bass Fillet today!",
+                "images": [
+                    "sea_bass_fillet_1.jpg",
+                    "sea_bass_fillet_2.jpg",
+                    "sea_bass_fillet_3.jpg"
+                ],
+                "stock": 50,
+                "weight": "0.7 kg",
+                "average_rating": 4.9,
+                "nutritional_info": {
+                    "calories": 180,
+                    "protein": "25g",
+                    "carbs": "0g",
+                    "fat": "9g"
+                },
+                "discount": 6
+            },
+            {
+                "name": "Trout Fillet",
+                "slug": "trout-fillet",
+                "price": 8.99,
+                "description": "Indulge in the delicate flavor of our Rainbow Trout Fillet, a freshwater favorite for seafood enthusiasts. Sourced from clean, cold waters, our trout fillets offer a tender texture and mild taste. Whether baked, broiled, or pan-seared, they're perfect for creating elegant seafood dishes. Packed with protein and essential nutrients, our trout fillets are a healthy and delicious option for any meal. Elevate your dining experience with the exceptional quality of our Rainbow Trout Fillet today!",
+                "images": [
+                    "trout_fillet_1.jpg",
+                    "trout_fillet_2.jpg",
+                    "trout_fillet_3.jpg"
+                ],
+                "stock": 55,
+                "weight": "0.5 kg",
+                "average_rating": 4.7,
+                "nutritional_info": {
+                    "calories": 160,
+                    "protein": "22g",
+                    "carbs": "0g",
+                    "fat": "8g"
+                },
+                "discount": 10
+            },
+            {
+                "name": "Haddock Fillet",
+                "slug": "haddock-fillet",
+                "price": 9.49,
+                "description": "Enjoy the mild flavor of our North Atlantic Haddock Fillet, a versatile choice for all your seafood recipes. Sourced from sustainable fisheries, our haddock fillets offer a firm texture and delicate taste. Whether battered and fried, baked with herbs, or grilled with lemon, they're perfect for fish and chips or fish tacos. Packed with protein and low in fat, our haddock fillets are a healthy and delicious addition to any diet. Elevate your meals with the exceptional quality of our North Atlantic Haddock Fillet today!",
+                "images": [
+                    "haddock_fillet_1.jpg",
+                    "haddock_fillet_2.jpg",
+                    "haddock_fillet_3.jpg"
+                ],
+                "stock": 60,
+                "weight": "0.6 kg",
+                "average_rating": 4.6,
+                "nutritional_info": {
+                    "calories": 150,
+                    "protein": "21g",
+                    "carbs": "0g",
+                    "fat": "7g"
+                },
+                "discount": 8
+            }
+        ]
+    },
+    {
+        "name": "Vegetables",
+        "products": [
+            {
+                "name": "Tomato",
+                "slug": "tomato",
+                "price": 1.99,
+                "description": "Fresh and juicy tomatoes sourced from local farms. Perfect for salads, sandwiches, or sauces.",
+                "images": [
+                    "tomato_1.jpg",
+                    "tomato_2.jpg",
+                    "tomato_3.jpg"
+                ],
+                "stock": 100,
+                "weight": "0.2 kg",
+                "average_rating": 4.5,
+                "nutritional_info": {
+                    "calories": 30,
+                    "protein": "1g",
+                    "carbs": "5g",
+                    "fat": "0g"
+                }
+            },
+            {
+                "name": "Carrot",
+                "slug": "carrot",
+                "price": 0.99,
+                "description": "Fresh organic carrots, crunchy and nutritious. Ideal for snacking, salads, or cooking.",
+                "images": [
+                    "carrot_1.jpg",
+                    "carrot_2.jpg",
+                    "carrot_3.jpg"
+                ],
+                "stock": 80,
+                "weight": "0.15 kg",
+                "average_rating": 4.6,
+                "nutritional_info": {
+                    "calories": 25,
+                    "protein": "1g",
+                    "carbs": "6g",
+                    "fat": "0g"
+                }
+            },
+            {
+                "name": "Spinach",
+                "slug": "spinach",
+                "price": 2.49,
+                "description": "Fresh spinach leaves, packed with vitamins and minerals. Great for salads, smoothies, or cooking.",
+                "images": [
+                    "spinach_1.jpg",
+                    "spinach_2.jpg",
+                    "spinach_3.jpg"
+                ],
+                "stock": 70,
+                "weight": "0.3 kg",
+                "average_rating": 4.7,
+                "nutritional_info": {
+                    "calories": 20,
+                    "protein": "2g",
+                    "carbs": "3g",
+                    "fat": "0g"
+                }
+            },
+            {
+                "name": "Broccoli",
+                "slug": "broccoli",
+                "price": 1.79,
+                "description": "Fresh broccoli florets, rich in nutrients and flavor. Perfect for stir-fries, soups, or side dishes.",
+                "images": [
+                    "broccoli_1.jpg",
+                    "broccoli_2.jpg",
+                    "broccoli_3.jpg"
+                ],
+                "stock": 90,
+                "weight": "0.25 kg",
+                "average_rating": 4.6,
+                "nutritional_info": {
+                    "calories": 35,
+                    "protein": "2g",
+                    "carbs": "7g",
+                    "fat": "0g"
+                }
+            },
+            {
+                "name": "Bell Pepper",
+                "slug": "bell-pepper",
+                "price": 1.49,
+                "description": "Colorful bell peppers, crisp and sweet. Great for stuffing, grilling, or adding to salads.",
+                "images": [
+                    "bell_pepper_1.jpg",
+                    "bell_pepper_2.jpg",
+                    "bell_pepper_3.jpg"
+                ],
+                "stock": 85,
+                "weight": "0.3 kg",
+                "average_rating": 4.8,
+                "nutritional_info": {
+                    "calories": 25,
+                    "protein": "1g",
+                    "carbs": "6g",
+                    "fat": "0g"
+                }
+            },
+            {
+                "name": "Cucumber",
+                "slug": "cucumber",
+                "price": 0.89,
+                "description": "Fresh cucumbers, crisp and refreshing. Perfect for salads, sandwiches, or pickling.",
+                "images": [
+                    "cucumber_1.jpg",
+                    "cucumber_2.jpg",
+                    "cucumber_3.jpg"
+                ],
+                "stock": 95,
+                "weight": "0.25 kg",
+                "average_rating": 4.7,
+                "nutritional_info": {
+                    "calories": 15,
+                    "protein": "1g",
+                    "carbs": "3g",
+                    "fat": "0g"
+                }
+            },
+            {
+                "name": "Lettuce",
+                "slug": "lettuce",
+                "price": 1.29,
+                "description": "Fresh lettuce leaves, crisp and flavorful. Ideal for salads, wraps, or sandwiches.",
+                "images": [
+                    "lettuce_1.jpg",
+                    "lettuce_2.jpg",
+                    "lettuce_3.jpg"
+                ],
+                "stock": 80,
+                "weight": "0.2 kg",
+                "average_rating": 4.6,
+                "nutritional_info": {
+                    "calories": 10,
+                    "protein": "1g",
+                    "carbs": "2g",
+                    "fat": "0g"
+                }
+            },
+            {
+                "name": "Onion",
+                "slug": "onion",
+                "price": 0.79,
+                "description": "Fresh onions, versatile and aromatic. Great for soups, stews, or adding flavor to dishes.",
+                "images": [
+                    "onion_1.jpg",
+                    "onion_2.jpg",
+                    "onion_3.jpg"
+                ],
+                "stock": 100,
+                "weight": "0.2 kg",
+                "average_rating": 4.7,
+                "nutritional_info": {
+                    "calories": 20,
+                    "protein": "1g",
+                    "carbs": "5g",
+                    "fat": "0g"
+                }
+            },
+            {
+                "name": "Potato",
+                "slug": "potato",
+                "price": 1.19,
+                "description": "Fresh potatoes, versatile and hearty. Perfect for roasting, mashing, or frying.",
+                "images": [
+                    "potato_1.jpg",
+                    "potato_2.jpg",
+                    "potato_3.jpg"
+                ],
+                "stock": 90,
+                "weight": "0.3 kg",
+                "average_rating": 4.8,
+                "nutritional_info": {
+                    "calories": 110,
+                    "protein": "2g",
+                    "carbs": "26g",
+                    "fat": "0g"
+                }
+            },
+            {
+                "name": "Zucchini",
+                "slug": "zucchini",
+                "price": 1.39,
+                "description": "Fresh zucchini, tender and mild. Ideal for grilling, sautéing, or baking.",
+                "images": [
+                    "zucchini_1.jpg",
+                    "zucchini_2.jpg",
+                    "zucchini_3.jpg"
+                ],
+                "stock": 85,
+                "weight": "0.25 kg",
+                "average_rating": 4.6,
+                "nutritional_info": {
+                    "calories": 20,
+                    "protein": "1g",
+                    "carbs": "4g",
+                    "fat": "0g"
+                }
+            },
+            {
+                "name": "Cauliflower",
+                "slug": "cauliflower",
+                "price": 1.69,
+                "description": "Fresh cauliflower, versatile and nutritious. Great for roasting, steaming, or making cauliflower rice.",
+                "images": [
+                    "cauliflower_1.jpg",
+                    "cauliflower_2.jpg",
+                    "cauliflower_3.jpg"
+                ],
+                "stock": 75,
+                "weight": "0.4 kg",
+                "average_rating": 4.7,
+                "nutritional_info": {
+                    "calories": 25,
+                    "protein": "2g",
+                    "carbs": "5g",
+                    "fat": "0g"
+                }
+            },
+            {
+                "name": "Green Beans",
+                "slug": "green-beans",
+                "price": 1.59,
+                "description": "Fresh green beans, crisp and flavorful. Perfect for steaming, stir-frying, or adding to salads.",
+                "images": [
+                    "green_beans_1.jpg",
+                    "green_beans_2.jpg",
+                    "green_beans_3.jpg"
+                ],
+                "stock": 80,
+                "weight": "0.3 kg",
+                "average_rating": 4.8,
+                "nutritional_info": {
+                    "calories": 20,
+                    "protein": "1g",
+                    "carbs": "4g",
+                    "fat": "0g"
+                }
+            },
+            {
+                "name": "Cabbage",
+                "slug": "cabbage",
+                "price": 1.09,
+                "description": "Fresh cabbage, crunchy and versatile. Ideal for coleslaw, stir-fries, or soups.",
+                "images": [
+                    "cabbage_1.jpg",
+                    "cabbage_2.jpg",
+                    "cabbage_3.jpg"
+                ],
+                "stock": 85,
+                "weight": "0.5 kg",
+                "average_rating": 4.6,
+                "nutritional_info": {
+                    "calories": 25,
+                    "protein": "1g",
+                    "carbs": "6g",
+                    "fat": "0g"
+                }
+            },
+            {
+                "name": "Mushroom",
+                "slug": "mushroom",
+                "price": 2.29,
+                "description": "Fresh mushrooms, earthy and flavorful. Perfect for sautéing, grilling, or adding to pasta dishes.",
+                "images": [
+                    "mushroom_1.jpg",
+                    "mushroom_2.jpg",
+                    "mushroom_3.jpg"
+                ],
+                "stock": 70,
+                "weight": "0.2 kg",
+                "average_rating": 4.7,
+                "nutritional_info": {
+                    "calories": 15,
+                    "protein": "2g",
+                    "carbs": "3g",
+                    "fat": "0g"
+                }
+            },
+            {
+                "name": "Eggplant",
+                "slug": "eggplant",
+                "price": 1.79,
+                "description": "Fresh eggplant, versatile and hearty. Ideal for grilling, roasting, or adding to curries.",
+                "images": [
+                    "eggplant_1.jpg",
+                    "eggplant_2.jpg",
+                    "eggplant_3.jpg"
+                ],
+                "stock": 75,
+                "weight": "0.4 kg",
+                "average_rating": 4.6,
+                "nutritional_info": {
+                    "calories": 20,
+                    "protein": "1g",
+                    "carbs": "5g",
+                    "fat": "0g"
+                }
+            }
+        ]
+    },
+    {
+        "name": "Fruits",
+        "products": [
+            {
+                "name": "Apple",
+                "slug": "apple",
+                "price": 0.99,
+                "description": "Crisp and juicy apples, perfect for snacking or baking. Available in a variety of colors.",
+                "images": [
+                    "apple_1.jpg",
+                    "apple_2.jpg",
+                    "apple_3.jpg"
+                ],
+                "stock": 100,
+                "weight": "0.2 kg",
+                "average_rating": 4.5,
+                "nutritional_info": {
+                    "calories": 52,
+                    "protein": "0.3g",
+                    "carbs": "14g",
+                    "fat": "0.2g"
+                },
+                "discount": 0.1
+            },
+            {
+                "name": "Banana",
+                "slug": "banana",
+                "price": 0.49,
+                "description": "Sweet and creamy bananas, a nutritious snack packed with potassium. Great for smoothies or desserts.",
+                "images": [
+                    "banana_1.jpg",
+                    "banana_2.jpg",
+                    "banana_3.jpg"
+                ],
+                "stock": 120,
+                "weight": "0.15 kg",
+                "average_rating": 4.6,
+                "nutritional_info": {
+                    "calories": 89,
+                    "protein": "1.1g",
+                    "carbs": "23g",
+                    "fat": "0.3g"
+                }
+            },
+            {
+                "name": "Orange",
+                "slug": "orange",
+                "price": 0.79,
+                "description": "Tangy and refreshing oranges, bursting with vitamin C. Perfect for fresh juice or snacking.",
+                "images": [
+                    "orange_1.jpg",
+                    "orange_2.jpg",
+                    "orange_3.jpg"
+                ],
+                "stock": 90,
+                "weight": "0.3 kg",
+                "average_rating": 4.7,
+                "nutritional_info": {
+                    "calories": 47,
+                    "protein": "1g",
+                    "carbs": "12g",
+                    "fat": "0.2g"
+                },
+                "discount": 0.15
+            },
+            {
+                "name": "Grapes",
+                "slug": "grapes",
+                "price": 1.29,
+                "description": "Plump and juicy grapes, bursting with natural sweetness. Available in red, green, or black varieties.",
+                "images": [
+                    "grapes_1.jpg",
+                    "grapes_2.jpg",
+                    "grapes_3.jpg"
+                ],
+                "stock": 80,
+                "weight": "0.25 kg",
+                "average_rating": 4.8,
+                "nutritional_info": {
+                    "calories": 69,
+                    "protein": "0.6g",
+                    "carbs": "18g",
+                    "fat": "0.2g"
+                }
+            },
+            {
+                "name": "Strawberry",
+                "slug": "strawberry",
+                "price": 2.49,
+                "description": "Sweet and succulent strawberries, bursting with flavor. Ideal for desserts, salads, or snacking.",
+                "images": [
+                    "strawberry_1.jpg",
+                    "strawberry_2.jpg",
+                    "strawberry_3.jpg"
+                ],
+                "stock": 70,
+                "weight": "0.2 kg",
+                "average_rating": 4.9,
+                "nutritional_info": {
+                    "calories": 32,
+                    "protein": "0.7g",
+                    "carbs": "8g",
+                    "fat": "0.3g"
+                },
+                "discount": 0.2
+            },
+            {
+                "name": "Pineapple",
+                "slug": "pineapple",
+                "price": 2.99,
+                "description": "Tropical and sweet pineapples, perfect for adding a taste of the tropics to your dishes. Rich in vitamin C and antioxidants.",
+                "images": [
+                    "pineapple_1.jpg",
+                    "pineapple_2.jpg",
+                    "pineapple_3.jpg"
+                ],
+                "stock": 60,
+                "weight": "1 kg",
+                "average_rating": 4.7,
+                "nutritional_info": {
+                    "calories": 50,
+                    "protein": "0.5g",
+                    "carbs": "13g",
+                    "fat": "0.1g"
+                }
+            },
+            {
+                "name": "Watermelon",
+                "slug": "watermelon",
+                "price": 3.49,
+                "description": "Juicy and refreshing watermelon, perfect for summertime picnics. High in hydration and low in calories.",
+                "images": [
+                    "watermelon_1.jpg",
+                    "watermelon_2.jpg",
+                    "watermelon_3.jpg"
+                ],
+                "stock": 50,
+                "weight": "3 kg",
+                "average_rating": 4.8,
+                "nutritional_info": {
+                    "calories": 30,
+                    "protein": "0.6g",
+                    "carbs": "8g",
+                    "fat": "0.2g"
+                }
+            },
+            {
+                "name": "Mango",
+                "slug": "mango",
+                "price": 1.99,
+                "description": "Exotic and fragrant mangoes, bursting with tropical flavor. Perfect for snacking, smoothies, or desserts.",
+                "images": [
+                    "mango_1.jpg",
+                    "mango_2.jpg",
+                    "mango_3.jpg"
+                ],
+                "stock": 75,
+                "weight": "0.3 kg",
+                "average_rating": 4.6,
+                "nutritional_info": {
+                    "calories": 60,
+                    "protein": "0.8g",
+                    "carbs": "15g",
+                    "fat": "0.4g"
+                }
+            },
+            {
+                "name": "Kiwi",
+                "slug": "kiwi",
+                "price": 1.49,
+                "description": "Tangy and refreshing kiwifruit, packed with vitamins and fiber. Great for salads, smoothies, or snacking.",
+                "images": [
+                    "kiwi_1.jpg",
+                    "kiwi_2.jpg",
+                    "kiwi_3.jpg"
+                ],
+                "stock": 85,
+                "weight": "0.2 kg",
+                "average_rating": 4.7,
+                "nutritional_info": {
+                    "calories": 42,
+                    "protein": "0.8g",
+                    "carbs": "11g",
+                    "fat": "0.4g"
+                },
+                "discount": 0.1
+            },
+            {
+                "name": "Peach",
+                "slug": "peach",
+                "price": 1.79,
+                "description": "Juicy and fragrant peaches, bursting with summer sweetness. Perfect for snacking, baking, or adding to salads.",
+                "images": [
+                    "peach_1.jpg",
+                    "peach_2.jpg",
+                    "peach_3.jpg"
+                ],
+                "stock": 65,
+                "weight": "0.25 kg",
+                "average_rating": 4.6,
+                "nutritional_info": {
+                    "calories": 39,
+                    "protein": "0.9g",
+                    "carbs": "10g",
+                    "fat": "0.3g"
+                }
+            },
+            {
+                "name": "Pear",
+                "slug": "pear",
+                "price": 1.69,
+                "description": "Sweet and crisp pears, perfect for snacking or adding to salads. Available in a variety of colors and flavors.",
+                "images": [
+                    "pear_1.jpg",
+                    "pear_2.jpg",
+                    "pear_3.jpg"
+                ],
+                "stock": 70,
+                "weight": "0.3 kg",
+                "average_rating": 4.5,
+                "nutritional_info": {
+                    "calories": 57,
+                    "protein": "0.4g",
+                    "carbs": "15g",
+                    "fat": "0.1g"
+                },
+                "discount": 0.2
+            },
+            {
+                "name": "Cherry",
+                "slug": "cherry",
+                "price": 2.99,
+                "description": "Sweet and tangy cherries, bursting with flavor and antioxidants. Perfect for snacking or adding to desserts.",
+                "images": [
+                    "cherry_1.jpg",
+                    "cherry_2.jpg",
+                    "cherry_3.jpg"
+                ],
+                "stock": 55,
+                "weight": "0.2 kg",
+                "average_rating": 4.7,
+                "nutritional_info": {
+                    "calories": 50,
+                    "protein": "1g",
+                    "carbs": "12g",
+                    "fat": "0.3g"
+                }
+            },
+            {
+                "name": "Plum",
+                "slug": "plum",
+                "price": 1.99,
+                "description": "Sweet and succulent plums, bursting with flavor and nutrients. Perfect for snacking, baking, or making jams.",
+                "images": [
+                    "plum_1.jpg",
+                    "plum_2.jpg",
+                    "plum_3.jpg"
+                ],
+                "stock": 60,
+                "weight": "0.25 kg",
+                "average_rating": 4.6,
+                "nutritional_info": {
+                    "calories": 46,
+                    "protein": "0.7g",
+                    "carbs": "11g",
+                    "fat": "0.2g"
+                }
+            },
+            {
+                "name": "Apricot",
+                "slug": "apricot",
+                "price": 2.49,
+                "description": "Sweet and aromatic apricots, bursting with flavor and nutrients. Perfect for snacking or adding to desserts.",
+                "images": [
+                    "apricot_1.jpg",
+                    "apricot_2.jpg",
+                    "apricot_3.jpg"
+                ],
+                "stock": 50,
+                "weight": "0.2 kg",
+                "average_rating": 4.8,
+                "nutritional_info": {
+                    "calories": 48,
+                    "protein": "1.4g",
+                    "carbs": "12g",
+                    "fat": "0.4g"
+                },
+                "discount": 0.15
+            }
+        ]
+    },
+    {
+        "name": "Milk",
+        "products": [
+            {
+                "name": "Whole Milk",
+                "slug": "whole-milk",
+                "price": 2.49,
+                "description": "Creamy and rich whole milk, perfect for drinking or cooking. Packed with essential nutrients.",
+                "images": [
+                    "whole_milk_1.jpg",
+                    "whole_milk_2.jpg",
+                    "whole_milk_3.jpg"
+                ],
+                "stock": 50,
+                "weight": "1 liter",
+                "average_rating": 4.5,
+                "nutritional_info": {
+                    "calories": 150,
+                    "protein": "8g",
+                    "carbs": "11g",
+                    "fat": "8g"
+                },
+                "discount": 0.15
+            },
+            {
+                "name": "Skim Milk",
+                "slug": "skim-milk",
+                "price": 1.99,
+                "description": "Low-fat skim milk, perfect for those watching their calorie intake. Light and refreshing.",
+                "images": [
+                    "skim_milk_1.jpg",
+                    "skim_milk_2.jpg",
+                    "skim_milk_3.jpg"
+                ],
+                "stock": 70,
+                "weight": "1 liter",
+                "average_rating": 4.2,
+                "nutritional_info": {
+                    "calories": 90,
+                    "protein": "8g",
+                    "carbs": "12g",
+                    "fat": "0.5g"
+                }
+            },
+            {
+                "name": "Almond Milk",
+                "slug": "almond-milk",
+                "price": 3.49,
+                "description": "Nutty and creamy almond milk, perfect for those with lactose intolerance or following a vegan diet.",
+                "images": [
+                    "almond_milk_1.jpg",
+                    "almond_milk_2.jpg",
+                    "almond_milk_3.jpg"
+                ],
+                "stock": 40,
+                "weight": "1 liter",
+                "average_rating": 4.7,
+                "nutritional_info": {
+                    "calories": 60,
+                    "protein": "1g",
+                    "carbs": "2g",
+                    "fat": "2.5g"
+                }
+            },
+            {
+                "name": "Soy Milk",
+                "slug": "soy-milk",
+                "price": 2.99,
+                "description": "Smooth and creamy soy milk, a great alternative to dairy for those with dietary restrictions or preferences.",
+                "images": [
+                    "soy_milk_1.jpg",
+                    "soy_milk_2.jpg",
+                    "soy_milk_3.jpg"
+                ],
+                "stock": 60,
+                "weight": "1 liter",
+                "average_rating": 4.4,
+                "nutritional_info": {
+                    "calories": 80,
+                    "protein": "7g",
+                    "carbs": "4g",
+                    "fat": "4g"
+                }
+            },
+            {
+                "name": "Goat Milk",
+                "slug": "goat-milk",
+                "price": 4.99,
+                "description": "Creamy and slightly tangy goat milk, perfect for those looking for a unique and nutritious dairy option.",
+                "images": [
+                    "goat_milk_1.jpg",
+                    "goat_milk_2.jpg",
+                    "goat_milk_3.jpg"
+                ],
+                "stock": 30,
+                "weight": "1 liter",
+                "average_rating": 4.6,
+                "nutritional_info": {
+                    "calories": 120,
+                    "protein": "9g",
+                    "carbs": "11g",
+                    "fat": "7g"
+                }
+            },
+            {
+                "name": "Coconut Milk",
+                "slug": "coconut-milk",
+                "price": 3.99,
+                "description": "Rich and creamy coconut milk, perfect for adding a tropical twist to your dishes. Great for curries, smoothies, and desserts.",
+                "images": [
+                    "coconut_milk_1.jpg",
+                    "coconut_milk_2.jpg",
+                    "coconut_milk_3.jpg"
+                ],
+                "stock": 45,
+                "weight": "1 liter",
+                "average_rating": 4.8,
+                "nutritional_info": {
+                    "calories": 110,
+                    "protein": "1g",
+                    "carbs": "7g",
+                    "fat": "10g"
+                },
+                "discount": 0.1
+            }
+        ]
+    },
+    {
+        "name": "Cakes",
+        "products": [
+            {
+                "name": "Chocolate Cake",
+                "slug": "chocolate-cake",
+                "price": 19.99,
+                "description": "Decadent chocolate cake layered with rich chocolate ganache. A heavenly treat for chocolate lovers.",
+                "images": [
+                    "chocolate_cake_1.jpg",
+                    "chocolate_cake_2.jpg",
+                    "chocolate_cake_3.jpg"
+                ],
+                "stock": 20,
+                "weight": "1 kg",
+                "average_rating": 4.7,
+                "nutritional_info": {
+                    "calories": 300,
+                    "protein": "5g",
+                    "carbs": "30g",
+                    "fat": "18g"
+                },
+                "discount": 0.15
+            },
+            {
+                "name": "Vanilla Cake",
+                "slug": "vanilla-cake",
+                "price": 16.99,
+                "description": "Classic vanilla cake with layers of fluffy vanilla buttercream. Simple yet delicious.",
+                "images": [
+                    "vanilla_cake_1.jpg",
+                    "vanilla_cake_2.jpg",
+                    "vanilla_cake_3.jpg"
+                ],
+                "stock": 25,
+                "weight": "1 kg",
+                "average_rating": 4.5,
+                "nutritional_info": {
+                    "calories": 250,
+                    "protein": "4g",
+                    "carbs": "28g",
+                    "fat": "14g"
+                }
+            },
+            {
+                "name": "Red Velvet Cake",
+                "slug": "red-velvet-cake",
+                "price": 22.99,
+                "description": "Velvety red cake with cream cheese frosting, a perfect balance of sweetness and tanginess.",
+                "images": [
+                    "red_velvet_cake_1.jpg",
+                    "red_velvet_cake_2.jpg",
+                    "red_velvet_cake_3.jpg"
+                ],
+                "stock": 15,
+                "weight": "1 kg",
+                "average_rating": 4.8,
+                "nutritional_info": {
+                    "calories": 280,
+                    "protein": "4g",
+                    "carbs": "32g",
+                    "fat": "16g"
+                },
+                "discount": 0.1
+            },
+            {
+                "name": "Carrot Cake",
+                "slug": "carrot-cake",
+                "price": 18.99,
+                "description": "Moist carrot cake with layers of cream cheese frosting and crunchy walnuts. A delightful treat.",
+                "images": [
+                    "carrot_cake_1.jpg",
+                    "carrot_cake_2.jpg",
+                    "carrot_cake_3.jpg"
+                ],
+                "stock": 18,
+                "weight": "1 kg",
+                "average_rating": 4.6,
+                "nutritional_info": {
+                    "calories": 270,
+                    "protein": "4g",
+                    "carbs": "29g",
+                    "fat": "15g"
+                }
+            },
+            {
+                "name": "Lemon Cake",
+                "slug": "lemon-cake",
+                "price": 20.99,
+                "description": "Zesty lemon cake with layers of lemon curd and fluffy lemon buttercream. A refreshing delight.",
+                "images": [
+                    "lemon_cake_1.jpg",
+                    "lemon_cake_2.jpg",
+                    "lemon_cake_3.jpg"
+                ],
+                "stock": 22,
+                "weight": "1 kg",
+                "average_rating": 4.7,
+                "nutritional_info": {
+                    "calories": 290,
+                    "protein": "4g",
+                    "carbs": "31g",
+                    "fat": "17g"
+                },
+                "discount": 0.2
+            },
+            {
+                "name": "Strawberry Shortcake",
+                "slug": "strawberry-shortcake",
+                "price": 23.99,
+                "description": "Light and airy sponge cake layered with fresh strawberries and whipped cream. A delightful summer treat.",
+                "images": [
+                    "strawberry_shortcake_1.jpg",
+                    "strawberry_shortcake_2.jpg",
+                    "strawberry_shortcake_3.jpg"
+                ],
+                "stock": 12,
+                "weight": "1 kg",
+                "average_rating": 4.8,
+                "nutritional_info": {
+                    "calories": 260,
+                    "protein": "4g",
+                    "carbs": "30g",
+                    "fat": "15g"
+                }
+            },
+            {
+                "name": "Coffee Cake",
+                "slug": "coffee-cake",
+                "price": 19.99,
+                "description": "Rich and moist coffee-infused cake with layers of espresso buttercream. Perfect with a cup of coffee.",
+                "images": [
+                    "coffee_cake_1.jpg",
+                    "coffee_cake_2.jpg",
+                    "coffee_cake_3.jpg"
+                ],
+                "stock": 20,
+                "weight": "1 kg",
+                "average_rating": 4.6,
+                "nutritional_info": {
+                    "calories": 280,
+                    "protein": "4g",
+                    "carbs": "32g",
+                    "fat": "15g"
+                }
+            },
+            {
+                "name": "Marble Cake",
+                "slug": "marble-cake",
+                "price": 21.99,
+                "description": "Swirled vanilla and chocolate cake with layers of chocolate ganache. A classic favorite for any occasion.",
+                "images": [
+                    "marble_cake_1.jpg",
+                    "marble_cake_2.jpg",
+                    "marble_cake_3.jpg"
+                ],
+                "stock": 17,
+                "weight": "1 kg",
+                "average_rating": 4.7,
+                "nutritional_info": {
+                    "calories": 290,
+                    "protein": "4g",
+                    "carbs": "33g",
+                    "fat": "16g"
+                },
+                "discount": 0.1
+            }
+        ]
+    },
+    {
+        "name": "Biscuits",
+        "products": [
+            {
+                "name": "Chocolate Chip Cookies",
+                "slug": "chocolate-chip-cookies",
+                "price": 3.99,
+                "description": "Classic chocolate chip cookies, loaded with chunks of rich chocolate. Perfect for dunking in milk.",
+                "images": [
+                    "chocolate_chip_cookies_1.jpg",
+                    "chocolate_chip_cookies_2.jpg",
+                    "chocolate_chip_cookies_3.jpg"
+                ],
+                "stock": 50,
+                "weight": "200g",
+                "average_rating": 4.8,
+                "nutritional_info": {
+                    "calories": 160,
+                    "protein": "2g",
+                    "carbs": "20g",
+                    "fat": "9g"
+                },
+                "discount": 0.2
+            },
+            {
+                "name": "Shortbread Biscuits",
+                "slug": "shortbread-biscuits",
+                "price": 4.49,
+                "description": "Buttery and crumbly shortbread biscuits, perfect for enjoying with a cup of tea or coffee.",
+                "images": [
+                    "shortbread_biscuits_1.jpg",
+                    "shortbread_biscuits_2.jpg",
+                    "shortbread_biscuits_3.jpg"
+                ],
+                "stock": 40,
+                "weight": "250g",
+                "average_rating": 4.6,
+                "nutritional_info": {
+                    "calories": 180,
+                    "protein": "2g",
+                    "carbs": "22g",
+                    "fat": "10g"
+                }
+            },
+            {
+                "name": "Oatmeal Cookies",
+                "slug": "oatmeal-cookies",
+                "price": 3.79,
+                "description": "Chewy oatmeal cookies made with rolled oats and sweet raisins. A wholesome and satisfying treat.",
+                "images": [
+                    "oatmeal_cookies_1.jpg",
+                    "oatmeal_cookies_2.jpg",
+                    "oatmeal_cookies_3.jpg"
+                ],
+                "stock": 45,
+                "weight": "200g",
+                "average_rating": 4.7,
+                "nutritional_info": {
+                    "calories": 150,
+                    "protein": "3g",
+                    "carbs": "20g",
+                    "fat": "7g"
+                }
+            },
+            {
+                "name": "Digestive Biscuits",
+                "slug": "digestive-biscuits",
+                "price": 2.99,
+                "description": "Crunchy whole wheat biscuits with a hint of sweetness. A classic choice for a satisfying snack.",
+                "images": [
+                    "digestive_biscuits_1.jpg",
+                    "digestive_biscuits_2.jpg",
+                    "digestive_biscuits_3.jpg"
+                ],
+                "stock": 55,
+                "weight": "150g",
+                "average_rating": 4.5,
+                "nutritional_info": {
+                    "calories": 130,
+                    "protein": "2g",
+                    "carbs": "20g",
+                    "fat": "5g"
+                },
+                "discount": 0.15
+            },
+            {
+                "name": "Ginger Snap Cookies",
+                "slug": "ginger-snap-cookies",
+                "price": 3.49,
+                "description": "Spicy and aromatic ginger snap cookies, perfect for enjoying with a hot cup of tea on a chilly day.",
+                "images": [
+                    "ginger_snap_cookies_1.jpg",
+                    "ginger_snap_cookies_2.jpg",
+                    "ginger_snap_cookies_3.jpg"
+                ],
+                "stock": 60,
+                "weight": "200g",
+                "average_rating": 4.4,
+                "nutritional_info": {
+                    "calories": 140,
+                    "protein": "2g",
+                    "carbs": "18g",
+                    "fat": "7g"
+                }
+            },
+            {
+                "name": "Coconut Biscuits",
+                "slug": "coconut-biscuits",
+                "price": 4.99,
+                "description": "Crunchy biscuits packed with shredded coconut for a tropical twist. Perfect for coconut lovers.",
+                "images": [
+                    "coconut_biscuits_1.jpg",
+                    "coconut_biscuits_2.jpg",
+                    "coconut_biscuits_3.jpg"
+                ],
+                "stock": 35,
+                "weight": "200g",
+                "average_rating": 4.7,
+                "nutritional_info": {
+                    "calories": 170,
+                    "protein": "2g",
+                    "carbs": "20g",
+                    "fat": "9g"
+                }
+            },
+            {
+                "name": "Almond Biscotti",
+                "slug": "almond-biscotti",
+                "price": 5.49,
+                "description": "Crunchy Italian almond biscotti, perfect for dipping into coffee or enjoying as a snack.",
+                "images": [
+                    "almond_biscotti_1.jpg",
+                    "almond_biscotti_2.jpg",
+                    "almond_biscotti_3.jpg"
+                ],
+                "stock": 30,
+                "weight": "200g",
+                "average_rating": 4.8,
+                "nutritional_info": {
+                    "calories": 160,
+                    "protein": "3g",
+                    "carbs": "18g",
+                    "fat": "8g"
+                }
+            },
+            {
+                "name": "Butter Cookies",
+                "slug": "butter-cookies",
+                "price": 4.79,
+                "description": "Rich and buttery cookies with a melt-in-your-mouth texture. A classic indulgence for any occasion.",
+                "images": [
+                    "butter_cookies_1.jpg",
+                    "butter_cookies_2.jpg",
+                    "butter_cookies_3.jpg"
+                ],
+                "stock": 25,
+                "weight": "200g",
+                "average_rating": 4.6,
+                "nutritional_info": {
+                    "calories": 180,
+                    "protein": "2g",
+                    "carbs": "20g",
+                    "fat": "10g"
+                },
+                "discount": 0.1
+            }
+        ]
+    },
+    {
+        "name": "Oil",
+        "products": [
+            {
+                "name": "Extra Virgin Olive Oil",
+                "slug": "extra-virgin-olive-oil",
+                "price": 9.99,
+                "description": "Premium quality extra virgin olive oil, cold-pressed from the finest olives. Ideal for dressings, marinades, and cooking.",
+                "images": [
+                    "extra_virgin_olive_oil_1.jpg",
+                    "extra_virgin_olive_oil_2.jpg",
+                    "extra_virgin_olive_oil_3.jpg"
+                ],
+                "stock": 50,
+                "weight": "500ml",
+                "average_rating": 4.7,
+                "nutritional_info": {
+                    "calories": 120,
+                    "fat": "14g",
+                    "saturated_fat": "2g",
+                    "monounsaturated_fat": "10g",
+                    "polyunsaturated_fat": "1.5g"
+                },
+                "discount": 0.15
+            },
+            {
+                "name": "Vegetable Oil",
+                "slug": "vegetable-oil",
+                "price": 6.99,
+                "description": "Versatile vegetable oil, perfect for frying, baking, and sautéing. Neutral flavor and high smoke point.",
+                "images": [
+                    "vegetable_oil_1.jpg",
+                    "vegetable_oil_2.jpg",
+                    "vegetable_oil_3.jpg"
+                ],
+                "stock": 60,
+                "weight": "1 liter",
+                "average_rating": 4.5,
+                "nutritional_info": {
+                    "calories": 120,
+                    "fat": "14g",
+                    "saturated_fat": "2g",
+                    "monounsaturated_fat": "8g",
+                    "polyunsaturated_fat": "3g"
+                }
+            },
+            {
+                "name": "Coconut Oil",
+                "slug": "coconut-oil",
+                "price": 7.99,
+                "description": "Organic coconut oil, cold-pressed from fresh coconuts. Ideal for cooking, baking, and skincare.",
+                "images": [
+                    "coconut_oil_1.jpg",
+                    "coconut_oil_2.jpg",
+                    "coconut_oil_3.jpg"
+                ],
+                "stock": 40,
+                "weight": "500ml",
+                "average_rating": 4.8,
+                "nutritional_info": {
+                    "calories": 120,
+                    "fat": "14g",
+                    "saturated_fat": "12g",
+                    "monounsaturated_fat": "1g",
+                    "polyunsaturated_fat": "0.5g"
+                },
+                "discount": 0.1
+            },
+            {
+                "name": "Avocado Oil",
+                "slug": "avocado-oil",
+                "price": 10.99,
+                "description": "Pure avocado oil, cold-pressed from ripe avocados. Rich in monounsaturated fats and antioxidants.",
+                "images": [
+                    "avocado_oil_1.jpg",
+                    "avocado_oil_2.jpg",
+                    "avocado_oil_3.jpg"
+                ],
+                "stock": 45,
+                "weight": "250ml",
+                "average_rating": 4.6,
+                "nutritional_info": {
+                    "calories": 130,
+                    "fat": "14g",
+                    "saturated_fat": "2g",
+                    "monounsaturated_fat": "10g",
+                    "polyunsaturated_fat": "2g"
+                }
+            },
+            {
+                "name": "Canola Oil",
+                "slug": "canola-oil",
+                "price": 5.49,
+                "description": "Light and versatile canola oil, perfect for all-purpose cooking and baking. Low in saturated fat and cholesterol-free.",
+                "images": [
+                    "canola_oil_1.jpg",
+                    "canola_oil_2.jpg",
+                    "canola_oil_3.jpg"
+                ],
+                "stock": 55,
+                "weight": "1 liter",
+                "average_rating": 4.4,
+                "nutritional_info": {
+                    "calories": 120,
+                    "fat": "14g",
+                    "saturated_fat": "1g",
+                    "monounsaturated_fat": "9g",
+                    "polyunsaturated_fat": "3g"
+                },
+                "discount": 0.2
+            },
+            {
+                "name": "Sunflower Oil",
+                "slug": "sunflower-oil",
+                "price": 6.49,
+                "description": "Pure sunflower oil, extracted from sunflower seeds. Light flavor and high smoke point, ideal for frying and baking.",
+                "images": [
+                    "sunflower_oil_1.jpg",
+                    "sunflower_oil_2.jpg",
+                    "sunflower_oil_3.jpg"
+                ],
+                "stock": 50,
+                "weight": "1 liter",
+                "average_rating": 4.7,
+                "nutritional_info": {
+                    "calories": 120,
+                    "fat": "14g",
+                    "saturated_fat": "1.5g",
+                    "monounsaturated_fat": "8g",
+                    "polyunsaturated_fat": "4g"
+                }
+            },
+            {
+                "name": "Sesame Oil",
+                "slug": "sesame-oil",
+                "price": 8.99,
+                "description": "Toasty and flavorful sesame oil, perfect for stir-frying and adding depth to Asian-inspired dishes.",
+                "images": [
+                    "sesame_oil_1.jpg",
+                    "sesame_oil_2.jpg",
+                    "sesame_oil_3.jpg"
+                ],
+                "stock": 35,
+                "weight": "250ml",
+                "average_rating": 4.8,
+                "nutritional_info": {
+                    "calories": 130,
+                    "fat": "14g",
+                    "saturated_fat": "2g",
+                    "monounsaturated_fat": "9g",
+                    "polyunsaturated_fat": "3g"
+                }
+            },
+            {
+                "name": "Peanut Oil",
+                "slug": "peanut-oil",
+                "price": 7.49,
+                "description": "Pure peanut oil, prized for its high smoke point and nutty flavor. Ideal for frying and Asian cooking.",
+                "images": [
+                    "peanut_oil_1.jpg",
+                    "peanut_oil_2.jpg",
+                    "peanut_oil_3.jpg"
+                ],
+                "stock": 40,
+                "weight": "500ml",
+                "average_rating": 4.6,
+                "nutritional_info": {
+                    "calories": 120,
+                    "fat": "14g",
+                    "saturated_fat": "2g",
+                    "monounsaturated_fat": "8g",
+                    "polyunsaturated_fat": "3g"
+                },
+                "discount": 0.1
+            }
+        ]
+    },
+    {
+        "name": "Tea",
+        "products": [
+            {
+                "name": "Earl Grey Tea",
+                "slug": "earl-grey-tea",
+                "price": 5.99,
+                "description": "A classic blend of black tea scented with bergamot oil. Smooth and aromatic, perfect for afternoon tea.",
+                "images": [
+                    "earl_grey_tea_1.jpg",
+                    "earl_grey_tea_2.jpg",
+                    "earl_grey_tea_3.jpg"
+                ],
+                "stock": 50,
+                "weight": "100g",
+                "average_rating": 4.7,
+                "nutritional_info": {
+                    "calories": 0,
+                    "protein": "0g",
+                    "carbs": "0g",
+                    "fat": "0g"
+                }
+            },
+            {
+                "name": "English Breakfast Tea",
+                "slug": "english-breakfast-tea",
+                "price": 4.49,
+                "description": "A robust and full-bodied blend of black teas, perfect for starting your day with a strong cup of tea.",
+                "images": [
+                    "english_breakfast_tea_1.jpg",
+                    "english_breakfast_tea_2.jpg",
+                    "english_breakfast_tea_3.jpg"
+                ],
+                "stock": 60,
+                "weight": "100g",
+                "average_rating": 4.5,
+                "nutritional_info": {
+                    "calories": 0,
+                    "protein": "0g",
+                    "carbs": "0g",
+                    "fat": "0g"
+                },
+                "discount": 0.1
+            },
+            {
+                "name": "Green Tea",
+                "slug": "green-tea",
+                "price": 6.99,
+                "description": "Pure and refreshing green tea, packed with antioxidants and delicate flavor notes. A healthy choice for any time of day.",
+                "images": [
+                    "green_tea_1.jpg",
+                    "green_tea_2.jpg",
+                    "green_tea_3.jpg"
+                ],
+                "stock": 40,
+                "weight": "100g",
+                "average_rating": 4.8,
+                "nutritional_info": {
+                    "calories": 0,
+                    "protein": "0g",
+                    "carbs": "0g",
+                    "fat": "0g"
+                },
+                "discount": 0.2
+            },
+            {
+                "name": "Chamomile Tea",
+                "slug": "chamomile-tea",
+                "price": 7.99,
+                "description": "Soothing chamomile tea, perfect for relaxation and promoting a restful sleep. Fragrant and calming.",
+                "images": [
+                    "chamomile_tea_1.jpg",
+                    "chamomile_tea_2.jpg",
+                    "chamomile_tea_3.jpg"
+                ],
+                "stock": 45,
+                "weight": "50g",
+                "average_rating": 4.6,
+                "nutritional_info": {
+                    "calories": 0,
+                    "protein": "0g",
+                    "carbs": "0g",
+                    "fat": "0g"
+                }
+            },
+            {
+                "name": "Peppermint Tea",
+                "slug": "peppermint-tea",
+                "price": 5.49,
+                "description": "Refreshing peppermint tea, naturally caffeine-free and perfect for aiding digestion and freshening breath.",
+                "images": [
+                    "peppermint_tea_1.jpg",
+                    "peppermint_tea_2.jpg",
+                    "peppermint_tea_3.jpg"
+                ],
+                "stock": 55,
+                "weight": "50g",
+                "average_rating": 4.4,
+                "nutritional_info": {
+                    "calories": 0,
+                    "protein": "0g",
+                    "carbs": "0g",
+                    "fat": "0g"
+                }
+            },
+            {
+                "name": "Jasmine Tea",
+                "slug": "jasmine-tea",
+                "price": 8.49,
+                "description": "Fragrant jasmine tea, delicately scented with jasmine flowers. A floral and aromatic treat for the senses.",
+                "images": [
+                    "jasmine_tea_1.jpg",
+                    "jasmine_tea_2.jpg",
+                    "jasmine_tea_3.jpg"
+                ],
+                "stock": 50,
+                "weight": "100g",
+                "average_rating": 4.7,
+                "nutritional_info": {
+                    "calories": 0,
+                    "protein": "0g",
+                    "carbs": "0g",
+                    "fat": "0g"
+                }
+            },
+            {
+                "name": "Rooibos Tea",
+                "slug": "rooibos-tea",
+                "price": 6.79,
+                "description": "Naturally caffeine-free rooibos tea, with a rich and earthy flavor profile. A comforting and healthful choice.",
+                "images": [
+                    "rooibos_tea_1.jpg",
+                    "rooibos_tea_2.jpg",
+                    "rooibos_tea_3.jpg"
+                ],
+                "stock": 35,
+                "weight": "100g",
+                "average_rating": 4.8,
+                "nutritional_info": {
+                    "calories": 0,
+                    "protein": "0g",
+                    "carbs": "0g",
+                    "fat": "0g"
+                }
+            },
+            {
+                "name": "Assam Tea",
+                "slug": "assam-tea",
+                "price": 7.29,
+                "description": "Bold and malty Assam tea, perfect for breakfast or anytime you need a strong and invigorating cup of tea.",
+                "images": [
+                    "assam_tea_1.jpg",
+                    "assam_tea_2.jpg",
+                    "assam_tea_3.jpg"
+                ],
+                "stock": 40,
+                "weight": "100g",
+                "average_rating": 4.6,
+                "nutritional_info": {
+                    "calories": 0,
+                    "protein": "0g",
+                    "carbs": "0g",
+                    "fat": "0g"
+                },
+                "discount": 0.15
+            }
+        ]
+    },
+    {
+        "name": "Water",
+        "products": [
+            {
+                "name": "Mineral Water",
+                "slug": "mineral-water",
+                "price": 1.99,
+                "description": "Premium mineral water sourced from natural springs. Refreshing and hydrating with a crisp, clean taste.",
+                "images": [
+                    "mineral_water_1.jpg",
+                    "mineral_water_2.jpg",
+                    "mineral_water_3.jpg"
+                ],
+                "stock": 100,
+                "size": "500ml",
+                "average_rating": 4.8,
+                "discount": 0.1
+            },
+            {
+                "name": "Sparkling Water",
+                "slug": "sparkling-water",
+                "price": 1.49,
+                "description": "Effervescent sparkling water, perfect for enjoying on its own or as a mixer for cocktails and mocktails.",
+                "images": [
+                    "sparkling_water_1.jpg",
+                    "sparkling_water_2.jpg",
+                    "sparkling_water_3.jpg"
+                ],
+                "stock": 80,
+                "size": "330ml",
+                "average_rating": 4.6
+            },
+            {
+                "name": "Flavored Water",
+                "slug": "flavored-water",
+                "price": 2.49,
+                "description": "Refreshing flavored water infused with natural fruit essences. A delicious and healthy alternative to sugary drinks.",
+                "images": [
+                    "flavored_water_1.jpg",
+                    "flavored_water_2.jpg",
+                    "flavored_water_3.jpg"
+                ],
+                "stock": 70,
+                "size": "500ml",
+                "average_rating": 4.5,
+                "discount": 0.15
+            },
+            {
+                "name": "Alkaline Water",
+                "slug": "alkaline-water",
+                "price": 2.99,
+                "description": "Ultra-purified alkaline water with a pH level of 9+. Designed to restore balance and hydration to the body.",
+                "images": [
+                    "alkaline_water_1.jpg",
+                    "alkaline_water_2.jpg",
+                    "alkaline_water_3.jpg"
+                ],
+                "stock": 60,
+                "size": "1 liter",
+                "average_rating": 4.7
+            }
+        ]
+    },
+    {
+        "name": "Butter & Ghee",
+        "products": [
+            {
+                "name": "Grass-Fed Butter",
+                "slug": "grass-fed-butter",
+                "price": 4.99,
+                "description": "Premium quality grass-fed butter, rich in flavor and nutrients. Perfect for baking, cooking, or spreading on toast.",
+                "images": [
+                    "grass_fed_butter_1.jpg",
+                    "grass_fed_butter_2.jpg",
+                    "grass_fed_butter_3.jpg"
+                ],
+                "stock": 50,
+                "weight": "250g",
+                "average_rating": 4.8,
+                "discount": 0.1
+            },
+            {
+                "name": "Clarified Butter (Ghee)",
+                "slug": "clarified-butter-ghee",
+                "price": 6.49,
+                "description": "Traditional clarified butter, known as ghee, with a rich nutty flavor and high smoke point. Ideal for frying, sautéing, and Indian cooking.",
+                "images": [
+                    "clarified_butter_ghee_1.jpg",
+                    "clarified_butter_ghee_2.jpg",
+                    "clarified_butter_ghee_3.jpg"
+                ],
+                "stock": 40,
+                "weight": "500g",
+                "average_rating": 4.6
+            },
+            {
+                "name": "Organic Ghee",
+                "slug": "organic-ghee",
+                "price": 7.99,
+                "description": "Certified organic ghee, made from grass-fed cow's milk. Rich in essential fatty acids and vitamins.",
+                "images": [
+                    "organic_ghee_1.jpg",
+                    "organic_ghee_2.jpg",
+                    "organic_ghee_3.jpg"
+                ],
+                "stock": 45,
+                "weight": "500g",
+                "average_rating": 4.7
+            },
+            {
+                "name": "Himalayan Pink Salt Butter",
+                "slug": "himalayan-pink-salt-butter",
+                "price": 5.49,
+                "description": "Creamy butter infused with Himalayan pink salt, adding a delicate salty flavor to every bite. Perfect for enhancing dishes.",
+                "images": [
+                    "himalayan_pink_salt_butter_1.jpg",
+                    "himalayan_pink_salt_butter_2.jpg",
+                    "himalayan_pink_salt_butter_3.jpg"
+                ],
+                "stock": 60,
+                "weight": "200g",
+                "average_rating": 4.5,
+                "discount": 0.15
+            },
+            {
+                "name": "Garlic Herb Butter",
+                "slug": "garlic-herb-butter",
+                "price": 4.79,
+                "description": "Savory butter infused with garlic and herbs, adding a burst of flavor to any dish. Perfect for seasoning meats, vegetables, or bread.",
+                "images": [
+                    "garlic_herb_butter_1.jpg",
+                    "garlic_herb_butter_2.jpg",
+                    "garlic_herb_butter_3.jpg"
+                ],
+                "stock": 55,
+                "weight": "150g",
+                "average_rating": 4.4
+            },
+            {
+                "name": "Salted Butter",
+                "slug": "salted-butter",
+                "price": 3.99,
+                "description": "Classic salted butter, perfect for spreading on toast, melting over vegetables, or using in baking recipes.",
+                "images": [
+                    "salted_butter_1.jpg",
+                    "salted_butter_2.jpg",
+                    "salted_butter_3.jpg"
+                ],
+                "stock": 35,
+                "weight": "250g",
+                "average_rating": 4.7,
+                "discount": 0.1
+            },
+            {
+                "name": "Unsalted Butter",
+                "slug": "unsalted-butter",
+                "price": 4.29,
+                "description": "Smooth and creamy unsalted butter, perfect for controlling the salt content in your dishes. Ideal for baking and cooking.",
+                "images": [
+                    "unsalted_butter_1.jpg",
+                    "unsalted_butter_2.jpg",
+                    "unsalted_butter_3.jpg"
+                ],
+                "stock": 30,
+                "weight": "200g",
+                "average_rating": 4.8
+            },
+            {
+                "name": "Whipped Butter",
+                "slug": "whipped-butter",
+                "price": 4.99,
+                "description": "Light and airy whipped butter, easy to spread straight from the fridge. Perfect for toast, muffins, or pancakes.",
+                "images": [
+                    "whipped_butter_1.jpg",
+                    "whipped_butter_2.jpg",
+                    "whipped_butter_3.jpg"
+                ],
+                "stock": 25,
+                "weight": "200g",
+                "average_rating": 4.6,
+                "discount": 0.2
+            }
+        ]
+    }
+]
