@@ -45,3 +45,46 @@
 .cl{
   background-color: linear-gradient(#6559ca,#bc318f 30%,#e33f5f 50%,#f77638 70%,#fec66d 100%);
 }
+
+/* productDetailsSwiper */
+.productDetailsSwiper .swiper-button-prev:after,
+.productDetailsSwiper .swiper-button-next:after {
+  font-size: 14px !important;
+  background-color: #ffffff;
+  padding: 8px 11px;
+  color: #000000;
+  border-radius: 100%;
+}
+
+.productDetailsSwiper .swiper-button-next{
+  top: 20px !important;
+  bottom: auto !important;
+  left: 50%;
+  transform: rotate(-90deg) translateY(-50%);
+}
+
+.productDetailsSwiper .swiper-button-prev{
+  top: auto !important;
+  bottom: 0 !important;
+  left: 50%;
+  transform: rotate(-90deg) translateY(-50%);
+}
+
+/* Custom Scroll Bar */
+/* Custom scrollbar styles */
+::-webkit-scrollbar {
+  width: 4px;
+}
+
+::-webkit-scrollbar-track {
+  background: #f1f1f1;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #6e6e6e;
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #555;
+}

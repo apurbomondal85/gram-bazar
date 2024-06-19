@@ -40,7 +40,7 @@ const PopularProductSlider: React.FC = () => {
                         </div>) :
 
                         allProducts?.map((product: any) =>
-                            <ProductCard product={product} />
+                            <ProductCard key={product?._id} product={product} />
                         )
                 }
             </Box>

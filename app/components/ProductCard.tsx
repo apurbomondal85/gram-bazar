@@ -23,11 +23,11 @@ const ProductCard = ({ product }: ProductType | any) => {
             <Box sx={{ position: 'relative', overflow: 'hidden' }}>
                 {
                     product?.discount ?
-                    <div className="absolute top-0 left-0 py-1 px-4 bg-complementary text-[13px] text-white rounded-ss-[16px] rounded-ee-[16px]">
-                        <BoltIcon className="text-[18px]" />
-                        <span>{product?.discount}%</span>
-                    </div>
-                    :''
+                        <div className="absolute top-0 left-0 py-1 px-4 bg-complementary text-[13px] text-white rounded-ss-[16px] rounded-ee-[16px]">
+                            <BoltIcon className="text-[18px]" />
+                            <span>{product?.discount}%</span>
+                        </div>
+                        : ''
                 }
 
                 <div className="px-12 py-2">
@@ -38,16 +38,18 @@ const ProductCard = ({ product }: ProductType | any) => {
                     <IconButton className="text-white bg-[rgba(0,0,0,0.4)] text-[16px] transition-all duration-500 hover:bg-[rgba(0,0,0,0.5)] p-3" sx={{ boxShadow: '0 0 2px 1px rgba(69,189,50,0.5)', ':hover': { boxShadow: '0 0 2px 2px rgba(69,189,50,0.8)' } }} aria-label="add to shopping cart">
                         <FaShoppingCart />
                     </IconButton>
-                    <IconButton className="text-white bg-[rgba(0,0,0,0.4)] text-[16px] transition-all duration-500 hover:bg-[rgba(0,0,0,0.5)] p-3" sx={{ boxShadow: '0 0 2px 1px rgba(69,189,50,0.5)', ':hover': { boxShadow: '0 0 2px 2px rgba(69,189,50,0.8)' } }} aria-label="add to shopping cart">
-                        <FaEye />
-                    </IconButton>
+                    <Link href={`/product-details/${product?.product_slug}`}>
+                        <IconButton className="text-white bg-[rgba(0,0,0,0.4)] text-[16px] transition-all duration-500 hover:bg-[rgba(0,0,0,0.5)] p-3" sx={{ boxShadow: '0 0 2px 1px rgba(69,189,50,0.5)', ':hover': { boxShadow: '0 0 2px 2px rgba(69,189,50,0.8)' } }} aria-label="add to shopping cart">
+                            <FaEye />
+                        </IconButton>
+                    </Link>
                     <IconButton className="text-white bg-[rgba(0,0,0,0.4)] text-[16px] transition-all duration-500 hover:bg-[rgba(0,0,0,0.5)] p-3" sx={{ boxShadow: '0 0 2px 1px rgba(69,189,50,0.5)', ':hover': { boxShadow: '0 0 2px 2px rgba(69,189,50,0.8)' } }} aria-label="add to shopping cart">
                         <FaRegHeart />
                     </IconButton>
                 </Box>
             </Box>
             <Box sx={{ padding: '8px 16px 18px 16px' }}>
-                <Link href={`/${product?.product_slug}`}><Typography variant="h3" className="text-[14px] sm:text-[16px] font-medium">{product?.product_name}</Typography></Link>
+                <Link href={`/product-details/${product?.product_slug}`}><Typography variant="h3" className="text-[14px] sm:text-[16px] font-medium">{product?.product_name}</Typography></Link>
                 <p>
                     <span className="text-secondary font-medium me-1 text-[12px] sm:text-[15px]">${(product?.price - (product?.price * product?.discount) / 100).toFixed(2)}</span>
                     {
